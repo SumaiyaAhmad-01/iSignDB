@@ -16,3 +16,5 @@ Trains the LSTM model
 Test.m
 Load the trained model and test on test data.
 
+Cite the following Paper:
+Sumaiya Ahmad et al. (2023) “Sensor-enabled Biometric Signature based authentication method for smartphone users.” in   International Journal of Biometrics (InderScience). Volume 15(2),  212-232, ISSN: 1755-830 https://doi.org/10.1504/IJBM.2023.129229 (ESCI/Scopus)
