@@ -1,5 +1,5 @@
 preprocess_sensor_data.m
-Pre-processes sensor data for 32 users, involving interpolation, and magnitude calculation.
+Pre-processes sensor data for 32 users from iSIgnDB, involving interpolation, and magnitude calculation.
 
 cal_statistical_features.m
 Calculates statistical features.
